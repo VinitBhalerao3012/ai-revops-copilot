@@ -6,7 +6,7 @@ langchain-community==0.4.2
 langchain-core==1.4.8
 plotly==5.24.1
 pandas==2.2.3
-numpy==1.26.4
+numpy>=2.1.0
 python-dotenv==1.2.1
 duckdb==1.5.4
 great-expectations==1.18.2
