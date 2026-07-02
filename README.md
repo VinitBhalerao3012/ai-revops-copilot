@@ -2,7 +2,7 @@
 
 > **Conversational Revenue Operations Analytics | Pipeline Intelligence | Real-time Insights**
 
-[![Live App](https://img.shields.io/badge/🚀_Live_App-Streamlit-FF4B4B?style=for-the-badge)](LIVE_LINK_HERE)
+[![Live App](https://img.shields.io/badge/🚀_Live_App-Streamlit-FF4B4B?style=for-the-badge)](https://ai-revops-copilot-30.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-VinitBhalerao3012-181717?style=for-the-badge&logo=github)](https://github.com/VinitBhalerao3012/ai-revops-copilot)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.51-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
@@ -27,7 +27,7 @@ The platform combines **LangChain**, **Groq/Llama 3.3 70B**, **SQLite**, **Plotl
 
 ## 🚀 Live Demo
 
-🔗 **[Launch AI RevOps Copilot → LIVE_LINK_HERE](LIVE_LINK_HERE)**
+🔗 **[Launch AI RevOps Copilot → LIVE_LINK_HERE](https://ai-revops-copilot-30.streamlit.app/)**
 
 ---
 
